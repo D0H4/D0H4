@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=300&section=header&text=Lee%20Doha&fontSize=90)
+<div align=center>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=300&section=header&text=Lee%20Doha&fontSize=90" align=center>
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
@@ -24,4 +25,5 @@
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=black">
   <img src="https://img.shields.io/badge/InteliJ-087CFA?style=flat&logo=intellijidea&logoColor=black">
   <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" />
+</div>
 </div>
