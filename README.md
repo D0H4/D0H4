@@ -1,5 +1,6 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=300&section=header&text=Doha&fontSize=90" align=center>
+<img src="http://doha-dev.duckdns.org/img/doha.png"" align="center">
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=300&section=header&text=Doha&fontSize=90" align=center> -->
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
